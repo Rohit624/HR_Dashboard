@@ -1,7 +1,7 @@
 
 ![Alt Text](Images/Dashboard.jpg)
 
-![Alt Text](Images/Employee Records.jpg)
+![Alt Text](Images/EmployeeRecords.jpg)
 
 # HR Dashboard – Power BI Project
 
