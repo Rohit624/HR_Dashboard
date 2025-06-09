@@ -1,3 +1,8 @@
+
+![Alt Text](Images/Dashboard.jpg)
+
+![Alt Text](Images/Employee Records.jpg)
+
 # HR Dashboard – Power BI Project
 
 An interactive HR analytics dashboard built in **Power BI** to help HR managers analyze workforce data efficiently.
