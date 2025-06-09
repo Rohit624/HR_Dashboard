@@ -35,7 +35,7 @@ To provide a summary and detailed view of employee data for strategic insights, 
 
 - `HR_Dashboard.pbix` – Power BI file  
 - `README.md` – This documentation  
-- *(Optional)* `data/` – Raw/Cleaned datasets
+- `data/` – Raw/Cleaned datasets
   
 ---
 
